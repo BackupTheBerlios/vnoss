@@ -1,4 +1,5 @@
 #!/bin/bash
+# $Header: /home/xubuntu/berlios_backup/github/tmp-cvs/vnoss/Repository/livecd/scripts/install.sh,v 1.2 2005/04/21 17:39:41 langthang Exp $
 #------------------------------------------
 # Installation script for VnOSS LiveCD
 #
