@@ -1,3 +1,4 @@
+#
 subarch: pentium4
 target: stage2
 version_stamp: 2005.0
